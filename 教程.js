@@ -1,0 +1,12 @@
+console.log('#########环境变量#########')
+console.log('ksjsbWithdrawTime=" X " ----提现时间 ')
+console.log('ksjsbtx="false" ----是否自动提现，默认false不自动提现')
+console.log('ksjsbjbdh="false" ----是否提现前自动兑换金币，默认false不兑换')
+console.log('kstoken="xxxxxxxxxxxxxxxxxx" -----卡密')
+console.log('postUrl="mod=xxxxxxxxxxxxxx ----机器码')
+console.log('在https://apijs.ksapisrv.com/rest/nebula/system/stat  抓类似的链接,从mod复制到最后')
+console.log('ksurl="xxxxxxxxxx"')
+console.log('salt&cookie&did 例如')
+console.log('38dsdsdsdasdasd&c778sdsssfsafasf5454sdfasd7asd5asd5as4d54asd4as5&ANDROID_xxxxxxx')
+console.log('祝老板好运！')
+
